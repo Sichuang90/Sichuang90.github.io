@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: Associate Professor of Economics
 
@@ -13,6 +13,13 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<style>
+  .social .contact-icons {
+    font-size: 1.5rem;
+    text-align: right;
+  }
+</style>
 
 Welcome!
 
