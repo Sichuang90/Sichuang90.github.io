@@ -6,12 +6,35 @@
   font-size: calc(2rem - 1pt);
 }
 
+#search-toggle .nav-link,
+#search-toggle .nav-link i,
+#light-toggle i,
+.site-social-icons .contact-icons,
+.site-social-icons .contact-icons i {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.site-social-icons .contact-icons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+}
+
 #search-toggle .nav-link {
   font-size: 0;
 }
 
 #search-toggle .nav-link i {
-  font-size: 1rem;
   position: relative;
   top: 2px;
+}
+
+.fa-half-sun-moon::before {
+  content: "\f042";
+  clip-path: none;
+}
+
+.fa-half-sun-moon::after {
+  display: none;
 }
