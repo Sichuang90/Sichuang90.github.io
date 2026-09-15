@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: Personal website and portfolio
+subtitle: Assistant Professor of Economics
 
 selected_papers: false
 social: true # includes social icons at the bottom of the page
@@ -14,8 +14,8 @@ latest_posts:
   enabled: false
 ---
 
-Hello! I'm Sichuang. I enjoy learning new technologies and turning ideas into useful, accessible products.
+Welcome!
 
-This site is a home for my work, interests, and the projects I am building. You can find my code and current projects on [GitHub](https://github.com/Sichuang90).
+I am an assistant professor at the School of Management and Economics of The Chinese University of Hong Kong, Shenzhen.
 
-More details are coming soon.
+My research interests are macroeconomics, international economics, and financial economics.
