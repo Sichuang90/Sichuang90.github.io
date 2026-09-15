@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "NerdFontsSymbols";
+  src: url("https://www.nerdfonts.com/assets/fonts/Symbols-2048-em%20Nerd%20Font%20Complete.woff2")
+    format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: normal;
+}
+
 .post-header .post-title {
   font-size: calc(2.5rem - 1pt);
 }
@@ -22,9 +31,25 @@
   top: 2px;
 }
 
+.fa-magnifying-glass::before,
+.fa-half-sun-moon::before,
+#light-toggle .fa-moon::before {
+  font-family: "NerdFontsSymbols";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.fa-magnifying-glass::before {
+  content: "\ea6d";
+}
+
 .fa-half-sun-moon::before {
-  content: "\f042";
+  content: "\f4ee";
   clip-path: none;
+}
+
+#light-toggle .fa-moon::before {
+  content: "\f4ee";
 }
 
 .fa-half-sun-moon::after {
