@@ -25,8 +25,6 @@ nav_order: 2
 
 - **Secrecy is a Barrier to Knowledge Diffusion**, 2025. With [Shengxing Zhang](https://sites.google.com/site/oo7zsx/).
 
-## Work in Progress
-
 - **Inefficient Investment Cycles**, 2022. With [Zehao Li](https://lizehao.weebly.com/).
 
 - **Uncertainty, Liquidity Constraint, and Entrepreneurship**, 2021. With [Pengfei Wang](https://english.phbs.pku.edu.cn/content-627-118-1.html), [Daniel Xu](https://sites.google.com/site/yixusite/), and [Zhiwei Xu](https://xuzhiwei09.wixsite.com/econ).
