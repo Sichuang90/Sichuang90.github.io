@@ -5,6 +5,10 @@ title: Research
 description: Publications and research by Sichuang Xu.
 nav: true
 nav_order: 2
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 ## Publications
