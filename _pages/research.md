@@ -9,6 +9,8 @@ nav_order: 2
 
 ## Publications
 
+- **[Discussion of "Does Digitalization Widen Labor Income Inequality?"](https://doi.org/10.1111/iere.70111)**, 2026. *International Economic Review*.
+
 - **[Long-Term Debt and the Efficiency of Crisis-Contingent Policies: Taming Overborrowing Externalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5297572)**, 2026. Forthcoming in the *Journal of Economic Dynamics and Control*. With Long Ma.
 
 - **[Bilateral Economies of Scope](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01543/125408/Bilateral-Economies-of-Scope?redirectedFrom=fulltext)**, 2024. *Review of Economics and Statistics*. With [Amber Li](http://yaoli.people.ust.hk/), [Stephen Yeaple](https://sites.google.com/site/sryeaple/), and [Tengyu Zhao](https://bmphd.hkust.edu.hk/programs/student-profiles/1557).
