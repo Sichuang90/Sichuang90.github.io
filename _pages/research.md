@@ -25,6 +25,8 @@ _styles: |
 
 ## Working Papers
 
+- **[Sentiment and Consumption in the Digital Age: Evidence from Transaction-Level Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258)**, 2026. With Yi Huang, Yaya Yu, Jing Zhou, and Yujun Zhou.
+
 - **[From Saving Push to Demand Pull: Dynamic Consumption Externalities and Optimal Industrial Upgrading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5601090)**, 2025. Previously entitled "Dynamic Big Push." With [Xuewen Liu](https://xuewenliu.com/).
 
 - **Secrecy is a Barrier to Knowledge Diffusion**, 2025. With [Shengxing Zhang](https://sites.google.com/site/oo7zsx/).
