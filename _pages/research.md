@@ -17,7 +17,7 @@ _styles: |
 
 ## Publications
 
-- **[Discussion of "Does Digitalization Widen Labor Income Inequality?"](https://doi.org/10.1111/iere.70111)**, 2026. *International Economic Review*.
+- **[Discussion of "Does Digitalization Widen Labor Income Inequality?"](https://doi.org/10.1111/iere.70111)**, 2026. *International Economic Review* (non-refereed).
 
 - **[Long-Term Debt and the Efficiency of Crisis-Contingent Policies: Taming Overborrowing Externalities](https://doi.org/10.1016/j.jedc.2025.105253)**, 2026. *Journal of Economic Dynamics and Control*, with Long Ma.
 
