@@ -15,6 +15,4 @@ _styles: |
   }
 ---
 
-My current curriculum vitae is available as a PDF.
-
-[Download CV]({{ '/cv/Sichuang_Xu_CV.pdf' | relative_url }}){: .btn .btn-primary }
+My current curriculum vitae is available as a PDF. [Download CV]({{ '/cv/Sichuang_Xu_CV.pdf' | relative_url }}){: .btn .btn-primary }
