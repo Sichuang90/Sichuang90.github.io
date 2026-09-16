@@ -13,6 +13,10 @@ _styles: |
   .post article h2 {
     font-size: 1.5rem;
   }
+
+  #publications + ul {
+    margin-bottom: 1.5rem;
+  }
 ---
 
 ## Publications
