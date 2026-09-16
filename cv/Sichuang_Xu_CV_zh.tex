@@ -1,0 +1,270 @@
+% !TEX program = xelatex
+\documentclass[11pt]{res}
+
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{hyperref}
+
+\setmainfont{texgyrepagella-regular.otf}[
+  BoldFont=texgyrepagella-bold.otf,
+  ItalicFont=texgyrepagella-italic.otf,
+  BoldItalicFont=texgyrepagella-bolditalic.otf
+]
+\setCJKmainfont{FandolSong-Regular.otf}[
+  BoldFont=FandolSong-Bold.otf,
+  ItalicFont=FandolKai-Regular.otf
+]
+
+\definecolor{linkblue}{HTML}{315F7D}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkblue,
+  citecolor=linkblue,
+  urlcolor=linkblue
+}
+
+\setlength{\topmargin}{-0.6in}
+\setlength{\textheight}{9.9in}
+\pagestyle{empty}
+
+\newcommand{\paperzh}[4]{%
+  \textbf{\href{#1}{#2}}（#4）\\[-0.02in]
+  {\small\itshape\href{#1}{#3}}%
+}
+\newcommand{\paperzhplain}[3]{%
+  \textbf{#1}（#3）\\[-0.02in]
+  {\small\itshape #2}%
+}
+\newcommand{\yearskip}{\par\vspace{0.08in}}
+\newenvironment{cvitem}
+  {\par\noindent\hspace{-0.42in}\begin{minipage}{\linewidth}}
+  {\end{minipage}\par\vspace{0.05in}}
+
+\begin{document}
+
+\begin{center}
+  \hspace{-0.5in}\LARGE\textbf{徐思闯}\\[0.15cm]
+  \hspace{-0.5in}\normalsize 学术简历
+\end{center}
+\thispagestyle{empty}
+\moveleft\hoffset\vbox{\hrule width \resumewidth height 1pt}\smallskip
+
+\begin{resume}
+
+\section{\bf 联系方式}
+\vspace{0.1in}
+\begin{tabular}{ll}
+\hspace{-0.42in} 香港中文大学（深圳）经管学院
+  & \hspace{0.2in} 电子邮箱：\href{mailto:xusichuang@cuhk.edu.cn}{xusichuang@cuhk.edu.cn}\\
+\hspace{-0.42in} 知仁楼415室
+  & \hspace{0.2in} 个人主页：\href{https://sichuang90.github.io/}{sichuang90.github.io}\\
+\hspace{-0.42in} 中国广东省深圳市龙岗区龙翔大道2001号 &
+\end{tabular}
+
+\section{\bf 任职}
+\vspace{0.1in}
+\hspace{-0.42in} 香港中文大学（深圳）副教授
+
+\section{\bf 教育背景}
+\vspace{0.1in}
+\begin{tabular}{ll}
+\hspace{-0.42in} 香港科技大学，经济学博士
+  & \hspace{0.15in} 2013--2019\\
+\hspace{-0.42in} \quad 导师：Pengfei Wang、Xuewen Liu &\\
+\hspace{-0.42in} 中山大学，金融学学士
+  & \hspace{0.15in} 2008--2012
+\end{tabular}
+
+\section{\bf 研究领域}
+\vspace{0.1in}
+\hspace{-0.42in} 宏观经济学、国际经济学
+
+\section{\bf 发表论文}
+\vspace{0.1in}
+
+\begin{cvitem}
+\paperzh{https://doi.org/10.1111/iere.70111}
+  {“数字化是否扩大劳动收入不平等？”评论}
+  {Discussion of ``Does Digitalization Widen Labor Income Inequality?''}{2026}\\
+\textit{International Economic Review}，非同行评审。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzh{https://doi.org/10.1016/j.jedc.2025.105253}
+  {长期债务与危机应对政策的效率：抑制过度借贷外部性}
+  {Long-Term Debt and the Efficiency of Crisis-Contingent Policies:
+  Taming Overborrowing Externalities}{2026}\\
+\textit{Journal of Economic Dynamics and Control}，与 Long Ma 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzh{https://doi.org/10.1162/rest_a_01543}
+  {双边范围经济}
+  {Bilateral Economies of Scope}{2024}\\
+\textit{Review of Economics and Statistics}，与 Amber Li、Stephen Yeaple
+和 Tengyu Zhao 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzh{https://doi.org/10.1111/iere.12700}
+  {资产市场情绪与经济周期波动}
+  {Asset Market Sentiments and Business Cycle Fluctuations}{2024}\\
+\textit{International Economic Review}，与 Xuewen Liu 和 Pengfei Wang 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzh{https://doi.org/10.1016/j.jinteco.2020.103317}
+  {质量、可变加成与福利：出口价格的定量一般均衡分析}
+  {Quality, Variable Markups, and Welfare: A Quantitative General Equilibrium
+  Analysis of Export Prices}{2020}\\
+\textit{Journal of International Economics}，与 Haichao Fan、Amber Li
+和 Stephen Yeaple 合作。
+\end{cvitem}
+
+\section{\bf 工作论文}
+\vspace{0.1in}
+
+\begin{cvitem}
+\paperzh{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258}
+  {数字时代的情绪与消费：来自交易层面数据的证据}
+  {Sentiment and Consumption in the Digital Age:
+  Evidence from Transaction-Level Data}{2026}\\
+与 Yi Huang、Yaya Yu、Jing Zhou 和 Yujun Zhou 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzh{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5601090}
+  {从储蓄推动到需求拉动：动态消费外部性与最优产业升级}
+  {From Saving Push to Demand Pull:
+  Dynamic Consumption Externalities and Optimal Industrial Upgrading}{2025}\\
+原题为“动态大推动”，与 Xuewen Liu 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzhplain
+  {保密是知识扩散的障碍}
+  {Secrecy is a Barrier to Knowledge Diffusion}{2025}\\
+与 Shengxing Zhang 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzhplain
+  {无效率的投资周期}
+  {Inefficient Investment Cycles}{2022}\\
+与 Zehao Li 合作。
+\end{cvitem}
+
+\begin{cvitem}
+\paperzhplain
+  {不确定性、流动性约束与创业}
+  {Uncertainty, Liquidity Constraint, and Entrepreneurship}{2021}\\
+与 Pengfei Wang、Daniel Xu 和 Zhiwei Xu 合作。
+\end{cvitem}
+
+\section{\bf 学术会议与研讨会}
+\vspace{0.1in}
+
+\hspace{-0.42in}\begin{minipage}{\linewidth}
+\textbf{2026：} 中国国际宏观经济学会议（CICM）、中国国际金融会议（CICF）、
+春季中西部宏观经济学会议（威斯康星）、第二届东亚与东南亚宏观经济学会研讨会
+（吉隆坡）、VEMAS（香港）、经济动态学会年会（SED，雅典）、
+复旦大学经济学院、LEAF（LAEF--HKU 增长与不平等联合会议）、
+山东大学（待举行）。
+\yearskip
+
+\textbf{2025：} 中央财经大学、复旦大学、上海交通大学上海高级金融学院（SAIF）、
+ICCDS、中国国际金融会议（CICF）、世界计量经济学会大会、香港浸会大学、
+香港科技大学经济学系、人工智能金融与数字经济研讨会
+（香港科技大学（广州））、EFG（厦门）、中央研究院。
+\yearskip
+
+\textbf{2024：} 岭南大学、澳大利亚贸易研讨会、复旦大学、
+香港科技大学经济学系、经济动态学会年会、世界计量经济学会亚洲年会、
+香港科技大学（广州）、清华大学五道口金融学院、香港中文大学、
+上海交通大学、北京大学汇丰商学院宏观经济与金融研讨会。
+\yearskip
+
+\textbf{2023：} 宾夕法尼亚州立大学、香港大学、北京大学、香港科技大学、
+经济动态学会年会、中西部国际贸易会议、丹麦国际经济学研讨会、
+香港大学贸易会议、世界计量经济学会亚洲年会、北京大学--新加坡国立大学会议、
+北京大学汇丰商学院宏观经济与金融研讨会、巴塞罗那夏季论坛、CICM、
+上海宏观经济学研讨会、清华大学五道口金融学院、对外经济贸易大学。
+\yearskip
+
+\textbf{2022：} CICM。
+\yearskip
+
+\textbf{2021：} CICM、CICF。
+\yearskip
+
+\textbf{2020：} CICM、上海财经大学。
+\yearskip
+
+\textbf{2019：} 经济动态学会年会、沃顿金融理论小组暑期学校、
+中西部宏观经济学会议、北京大学、北京大学汇丰商学院宏观经济与金融研讨会。
+\yearskip
+
+\textbf{2018：} 经济动态学会年会、亚洲贸易与生产研究小组会议、
+香港科技大学--暨南大学宏观经济学研讨会、上海交通大学、
+香港科技大学国际经济学研讨会、香港科技大学宏观经济学研讨会。
+\end{minipage}
+
+\section{\bf 匿名审稿}
+\vspace{0.1in}
+\hspace{-0.42in}\begin{minipage}{\linewidth}
+\textit{International Economic Review}、
+\textit{Journal of International Economics}、
+\textit{American Economic Journal: Microeconomics}、
+\textit{Journal of Economic Dynamics and Control}、
+\textit{China Economic Review}、
+\textit{China \& World Economy} 和
+\textit{China Economic Quarterly}
+\end{minipage}
+
+\pagebreak
+\section{\bf 学生指导}
+\vspace{0.1in}
+\begin{tabular}{llll}
+\hspace{-0.42in} Long Ma      & 博士生 & 导师       & 2022--至今\\
+\hspace{-0.42in} Wenwei Liang & 博士生 & 导师       & 2022--至今\\
+\hspace{-0.42in} Yan Zhao     & 博士生 & 委员会成员 & 2021--2025
+\end{tabular}
+
+\section{\bf 科研项目}
+\vspace{0.1in}
+\begin{tabular}{lll}
+\hspace{-0.42in} 国家自然科学基金面上项目（72173111）
+  & 主要参与人 & 2022--2025\\
+\hspace{-0.42in} 经管学院科研基金（香港中文大学（深圳））
+  & 项目负责人 & 2020、2024\\
+\hspace{-0.42in} 校长启动基金（香港中文大学（深圳））
+  & 项目负责人 & 2019
+\end{tabular}
+
+\section{\bf 奖励与荣誉}
+\vspace{0.1in}
+\begin{tabular}{lll}
+\hspace{-0.42in} 研究生奖学金
+  & 香港科技大学 & 2013--2018\\
+\hspace{-0.42in} 优秀本科毕业论文奖
+  & 中山大学 & 2012
+\end{tabular}
+
+\section{\bf 教学经历}
+\vspace{0.1in}
+\begin{tabular}{lll}
+\hspace{-0.42in} 中国经济政策及其影响
+  & 硕士生课程 & 2026--至今\\
+\hspace{-0.42in} 宏观经济学专题（国际贸易）
+  & & 2026--至今\\
+\hspace{-0.42in} 宏观经济理论 II
+  & 博士生课程 & 2019--至今\\
+\hspace{-0.42in} 国际贸易
+  & 本科生课程 & 2019--至今\\
+\hspace{-0.42in} 高级宏观经济学
+  & 本科生课程 & 2019--2025
+\end{tabular}
+
+\end{resume}
+\end{document}
