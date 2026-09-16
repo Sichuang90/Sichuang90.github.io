@@ -15,6 +15,6 @@ latest_posts:
 
 Welcome!
 
-I am an associate professor at the School of Management and Economics of The Chinese University of Hong Kong, Shenzhen.
+I am an associate professor at the School of Management and Economics, The Chinese University of Hong Kong, Shenzhen.
 
 My research interests are macroeconomics, international economics, and financial economics.
