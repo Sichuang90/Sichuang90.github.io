@@ -9,6 +9,10 @@ _styles: |
   .post-header {
     display: none;
   }
+
+  .post article h2 {
+    font-size: 1.5rem;
+  }
 ---
 
 ## Publications
