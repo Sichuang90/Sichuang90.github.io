@@ -8,6 +8,8 @@
 \definecolor{linkblue}{HTML}{315F7D}
 \hypersetup{
   colorlinks=true,
+  linkcolor=linkblue,
+  citecolor=linkblue,
   urlcolor=linkblue
 }
 
@@ -22,6 +24,9 @@
 \pagestyle{fancy}
 
 \newcommand{\paper}[3]{\textbf{\href{#1}{#2}} (#3)}
+\newenvironment{cvitem}
+  {\par\noindent\hspace{-0.42in}\begin{minipage}{\linewidth}}
+  {\end{minipage}\par\vspace{0.08in}}
 
 \begin{document}
 
@@ -66,55 +71,71 @@
 \section{\bf Publications}
 \vspace{0.15in}
 
-\hspace{-0.42in}\begin{minipage}{\linewidth}
+\begin{cvitem}
 \paper{https://doi.org/10.1111/iere.70111}
   {Discussion of ``Does Digitalization Widen Labor Income Inequality?''}{2026}.\\
 \textit{International Economic Review}. Non-refereed.
+\end{cvitem}
 
+\begin{cvitem}
 \paper{https://doi.org/10.1016/j.jedc.2025.105253}
   {Long-Term Debt and the Efficiency of Crisis-Contingent Policies:
   Taming Overborrowing Externalities}{2026}.\\
 \textit{Journal of Economic Dynamics and Control}, with Long Ma.
+\end{cvitem}
 
+\begin{cvitem}
 \paper{https://doi.org/10.1162/rest_a_01543}
   {Bilateral Economies of Scope}{2024}.\\
 \textit{Review of Economics and Statistics}, with Amber Li, Stephen Yeaple,
 and Tengyu Zhao.
+\end{cvitem}
 
+\begin{cvitem}
 \paper{https://doi.org/10.1111/iere.12700}
   {Asset Market Sentiments and Business Cycle Fluctuations}{2024}.\\
 \textit{International Economic Review}, with Xuewen Liu and Pengfei Wang.
+\end{cvitem}
 
+\begin{cvitem}
 \paper{https://doi.org/10.1016/j.jinteco.2020.103317}
   {Quality, Variable Markups, and Welfare: A Quantitative General Equilibrium
   Analysis of Export Prices}{2020}.\\
 \textit{Journal of International Economics}, with Haichao Fan, Amber Li,
 and Stephen Yeaple.
-\end{minipage}
+\end{cvitem}
 
 \section{\bf Working Papers}
 \vspace{0.15in}
 
-\hspace{-0.42in}\begin{minipage}{\linewidth}
+\begin{cvitem}
 \paper{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258}
   {Sentiment and Consumption in the Digital Age:
   Evidence from Transaction-Level Data}{2026},\\
 with Yi Huang, Yaya Yu, Jing Zhou, and Yujun Zhou.
+\end{cvitem}
 
+\begin{cvitem}
 \paper{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5601090}
   {From Saving Push to Demand Pull:
   Dynamic Consumption Externalities and Optimal Industrial Upgrading}{2025},\\
 previously entitled ``Dynamic Big Push,'' with Xuewen Liu.
+\end{cvitem}
 
+\begin{cvitem}
 \textbf{Secrecy is a Barrier to Knowledge Diffusion} (2025),\\
 with Shengxing Zhang.
+\end{cvitem}
 
+\begin{cvitem}
 \textbf{Inefficient Investment Cycles} (2022),\\
 with Zehao Li.
+\end{cvitem}
 
+\begin{cvitem}
 \textbf{Uncertainty, Liquidity Constraint, and Entrepreneurship} (2021),\\
 with Pengfei Wang, Daniel Xu, and Zhiwei Xu.
-\end{minipage}
+\end{cvitem}
 
 \section{\bf Conferences and Workshops}
 \vspace{0.1in}
@@ -176,6 +197,7 @@ HKUST International Economics Workshop, HKUST Macro Workshop.
 \hspace{-0.42in} Yan Zhao     & Ph.D. & Committee Member & 2021--2025
 \end{tabular}
 
+\pagebreak
 \section{\bf Grants}
 \vspace{0.1in}
 \begin{tabular}{llll}
