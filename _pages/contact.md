@@ -5,6 +5,10 @@ title: Contact
 description: Contact information and office hours for Sichuang Xu.
 nav: true
 nav_order: 4
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 ## Office
