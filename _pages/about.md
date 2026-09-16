@@ -2,7 +2,6 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Associate Professor of Economics
 
 selected_papers: false
 social: false
