@@ -21,7 +21,7 @@ _styles: |
 
 ## Publications
 
-- **[Discussion of "Does Digitalization Widen Labor Income Inequality?"](https://doi.org/10.1111/iere.70111)**, 2026. *International Economic Review* (non-refereed).
+- **[Discussion of "Does Digitalization Widen Labor Income Inequality?"](https://doi.org/10.1111/iere.70111)**, 2026. *International Economic Review*.
 
 - **[Long-Term Debt and the Efficiency of Crisis-Contingent Policies: Taming Overborrowing Externalities](https://doi.org/10.1016/j.jedc.2025.105253)**, 2026. *Journal of Economic Dynamics and Control*, with Long Ma.
 
@@ -33,7 +33,7 @@ _styles: |
 
 ## Working Papers
 
-- **[Sentiment and Consumption in the Digital Age: Evidence from Transaction-Level Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258)**, 2026, with Yi Huang, Yaya Yu, Jing Zhou, and Yujun Zhou.
+- **[Sentiment and Consumption in the Digital Age: Evidence from Transaction-Level Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258)**, 2026, with Yi Huang, Yaya Yu, Jing Zhou, and Yujun Zhou. Revise and resubmit, *Management Science*.
 
 - **[From Saving Push to Demand Pull: Dynamic Consumption Externalities and Optimal Industrial Upgrading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5601090)**, 2025 (previously entitled "Dynamic Big Push"), with [Xuewen Liu](https://xuewenliu.com/).
 
