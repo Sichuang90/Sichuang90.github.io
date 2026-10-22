@@ -33,7 +33,7 @@ _styles: |
 
 ## Working Papers
 
-- **[Sentiment and Consumption in the Digital Age: Evidence from Transaction-Level Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258)**, 2026, with Yi Huang, Yaya Yu, Jing Zhou, and Yujun Zhou. Revise and resubmit, *Management Science*.
+- **[Sentiment and Consumption in the Digital Age: Evidence from Transaction-Level Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258)**, 2026, with [Yi Huang](https://yihuang05.wixsite.com/macro), Yaya Yu, [Jing Zhou](https://jing-zhou.weebly.com/), and Yujun Zhou. Revise and resubmit, *Management Science*.
 
 - **[From Saving Push to Demand Pull: Dynamic Consumption Externalities and Optimal Industrial Upgrading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5601090)**, 2025 (previously entitled "Dynamic Big Push"), with [Xuewen Liu](https://xuewenliu.com/).
 
