@@ -3,7 +3,8 @@ layout: page
 permalink: /cv/
 title: CV
 description: Curriculum vitae of Sichuang Xu.
-nav: true
+nav: false
+published: false
 nav_order: 1
 _styles: |
   .post-header {

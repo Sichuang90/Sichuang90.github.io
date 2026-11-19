@@ -218,6 +218,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - cv/
+  - assets/pdf/Sichuang_Xu_CV.pdf
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
