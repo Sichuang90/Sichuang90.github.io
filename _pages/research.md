@@ -31,6 +31,7 @@ _styles: |
 
 - **[Quality, Variable Markups, and Welfare: A Quantitative General Equilibrium Analysis of Export Prices](https://www.sciencedirect.com/science/article/pii/S0022199620300465)**, 2020. *Journal of International Economics*, with [Haichao Fan](http://fanhaichao.weebly.com/), [Amber Li](http://yaoli.people.ust.hk/), and [Stephen Yeaple](https://sites.google.com/site/sryeaple/).
 
+{% comment %}
 ## Working Papers
 
 - **[Sentiment and Consumption in the Digital Age: Evidence from Transaction-Level Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7259258)**, 2026, with [Yi Huang](https://yihuang05.wixsite.com/macro), Yaya Yu, [Jing Zhou](https://jing-zhou.weebly.com/), and Yujun Zhou. Revise and resubmit, *Management Science*.
@@ -42,3 +43,4 @@ _styles: |
 - **Inefficient Investment Cycles**, 2022, with [Zehao Li](https://lizehao.weebly.com/).
 
 - **Uncertainty, Liquidity Constraint, and Entrepreneurship**, 2021, with [Pengfei Wang](https://english.phbs.pku.edu.cn/content-627-118-1.html), [Daniel Xu](https://sites.google.com/site/yixusite/), and [Zhiwei Xu](https://xuzhiwei09.wixsite.com/econ).
+{% endcomment %}
